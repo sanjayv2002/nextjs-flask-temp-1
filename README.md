@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to nextjs-flask-template-1 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank">
+  <!-- <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
   <a href="https://nextjs.org/docs/getting-started" target="_blank">
@@ -12,7 +12,7 @@
   </a>
     <a href="https://docs.railway.app/" target="_blank">
     <img alt="Railway" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/sanjayv2002/nextjs-flask-temp-1/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
