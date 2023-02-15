@@ -26,7 +26,7 @@ git clone https://github.com/sanjayv2002/nextjs-flask-temp-1.git
 👤 **Sanjay Kumar V**
 
 * Github: [@sanjayv2002](https://github.com/sanjayv2002)
-* LinkedIn: [@SANJAY KUMAR V](https://linkedin.com/in/SANJAY KUMAR V)
+* LinkedIn: [@SANJAY KUMAR V](https://www.linkedin.com/in/sanjay-kumar-v-474316205/)
 
 ## 🤝 Contributing
 
@@ -39,7 +39,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Sanjay Kumar V](https://github.com/sanjayv2002).<br />
-This project is [MIT](will add later) licensed.
+This project is [MIT](https://github.com/sanjayv2002/nextjs-flask-temp-1/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
