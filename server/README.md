@@ -19,7 +19,7 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 ## 💁‍♀️ How to use
 
-- Go to railway.app and import project from git
+- Go to [Railway](https://railway.app) and import project from git
 - Select the repository and set root directory to *server*
 - Set build command as `pip install -r requirements.txt`
 - Set start command as `python main.py`
