@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 @cross_origin()
 def home():
-    return jsonify({"member":"Member1"})
+    return jsonify({"message":"Welcome to the server template"})
 
 
 
