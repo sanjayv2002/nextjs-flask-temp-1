@@ -37,3 +37,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Import repository from github and choose the correct repository
 - Set root directory to client and you should be good to go!
 
+## Connection to Backend
+
+- Once the Backend is Deployed, get that URL and store it as ENV VARIABLE with the name *URL*, in Vercel
+- Use the `process.env.URL` to access the URL in your fetch requests.
